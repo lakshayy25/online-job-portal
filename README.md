@@ -1,9 +1,10 @@
 # Online Job Portal
 
-A full-stack web application that connects job seekers and recruiters on a single platform.
-Users can browse jobs, apply online, and recruiters can post and manage job listings.
+A full-stack web application that connects job seekers and recruiters on a single platform.  
+Users can browse and apply for jobs, while recruiters can post and manage job listings.
 
-This project was built as part of my full-stack learning journey using AI-assisted development workflows.
+This project was built as part of my full-stack development journey, focusing on clean architecture,
+real-world workflows, and scalable design.
 
 ---
 
@@ -14,7 +15,7 @@ This project was built as part of my full-stack learning journey using AI-assist
 - Browse and search jobs
 - Apply for jobs
 - View applied jobs
-- Manage profile
+- Manage user profile
 
 ### 🧑‍💼 For Recruiters
 - Recruiter authentication
@@ -26,12 +27,12 @@ This project was built as part of my full-stack learning journey using AI-assist
 
 ## 🛠 Tech Stack
 
-**Frontend**
+### Frontend
 - React (Vite)
 - Tailwind CSS
 - Redux Toolkit
 
-**Backend**
+### Backend
 - Node.js
 - Express.js
 - MongoDB
@@ -39,12 +40,13 @@ This project was built as part of my full-stack learning journey using AI-assist
 
 ---
 
-## 🤖 AI-Assisted Development
+## 🧠 Development Approach
 
-- Used AI tools for boilerplate generation
-- Refactoring and debugging assistance
-- Faster development using AI-assisted workflows
-- Maintained full control over application logic
+This project was developed using **AI-assisted development tools** (such as GitHub Copilot)
+to speed up repetitive tasks like boilerplate generation and refactoring.
+
+All core application logic, system architecture, data flow, and debugging
+were designed, implemented, and verified manually to ensure reliability and maintainability.
 
 ---
 
@@ -59,7 +61,6 @@ online-job-portal
 
 **Lakshay Sharma**  
 Full Stack Developer | Java & MERN  
-AI-assisted development enthusiast  
+Focused on building scalable web applications using modern development tools
 
 GitHub: https://github.com/lakshayy25
-
